@@ -1,2 +1,4 @@
 E-mail
 Senha
+Idade
+Salario
